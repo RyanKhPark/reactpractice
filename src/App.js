@@ -34,7 +34,7 @@ class App extends Component {
     return (
       <div className="App">
 
-        "Hello World!"
+        "Dog's World"
         {Object.entries(breeds).map((breed) => { return console.log(breed[1]) })}
         {Object.entries(breeds).map((breed) => {
           return breed[1].length > 0 ?
