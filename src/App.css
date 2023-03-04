@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  font-weight: 800;
+  font-size: 21px;
+}
+
+li {
+  font-weight: 400;
+  font-size: 12px;
+  list-style-position: inside;
+}
